@@ -1,7 +1,7 @@
 {
   "name": "aci-theme-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Aci Theme based on https://github.com/Mayccoll/Gogh",
   "keywords": [
     "syntax",
